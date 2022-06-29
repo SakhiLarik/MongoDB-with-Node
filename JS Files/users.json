@@ -1,0 +1,21 @@
+[
+    {
+        "name":"Mehtab Ali Larik",
+        "email":"mehtabalilarik@gmail.com",
+        "gender":"male",
+        "age":21
+    },
+    {
+        "name":"Ali Khan Larik",
+        "email":"alikhanlarik@gmail.com",
+        "gender":"male",
+        "age":22
+    },
+    {
+        "name":"Mehrab Ali Larik",
+        "email":"mehrabalilarik@gmail.com",
+        "gender":"male",
+        "age":17
+    }
+
+]
